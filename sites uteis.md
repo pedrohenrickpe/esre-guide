@@ -1,1 +1,3 @@
-[Setence transforms](https://www.sbert.net/index.html)
+- [Setence transformers](https://www.sbert.net/index.html)
+- [Pretrained Models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html#model-overview)
+- [Setence Tranformer - hugging Face](https://huggingface.co/models?library=sentence-transformers&sort=trending)
